@@ -1,0 +1,2 @@
+str(iris)
+summary(iris)
