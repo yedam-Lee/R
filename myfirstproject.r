@@ -1,3 +1,0 @@
-str(iris)
-summary(iris)
-
